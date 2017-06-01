@@ -1,0 +1,8 @@
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$6
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$5
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$7
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$2
+UserInterface.DoctorRole.DoctorPatientSearchJPanel
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$1
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$4
+UserInterface.DoctorRole.DoctorPatientSearchJPanel$3
